@@ -13,6 +13,7 @@ En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 En este repositorio puede encontrar lo siguiente:
 
 * Código del proyecto.
+* Esquema de montaje.
 
 ## Contribuir
 
